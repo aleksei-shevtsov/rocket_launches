@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rocket_launches/static/css/main.2d617d8e.css",
+    "main.css": "/rocket_launches/static/css/main.959a74e5.css",
     "main.js": "/rocket_launches/static/js/main.b1e8fce7.js",
     "index.html": "/rocket_launches/index.html",
-    "main.2d617d8e.css.map": "/rocket_launches/static/css/main.2d617d8e.css.map",
+    "main.959a74e5.css.map": "/rocket_launches/static/css/main.959a74e5.css.map",
     "main.b1e8fce7.js.map": "/rocket_launches/static/js/main.b1e8fce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d617d8e.css",
+    "static/css/main.959a74e5.css",
     "static/js/main.b1e8fce7.js"
   ]
 }
